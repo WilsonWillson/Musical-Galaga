@@ -1,0 +1,4 @@
+﻿  Console.cpp
+c:\guildhall\p4v\depot\c26\students\wilsonjc\projects\engine\code\engine\core\console.cpp(119): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\guildhall\p4v\depot\c26\students\wilsonjc\projects\engine\code\engine\core\console.cpp(125): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Engine.vcxproj -> C:\Guildhall\p4v\depot\C26\Students\wilsonjc\Projects\DFS1\MusicalGalaga\Temporary\Engine_x64_Debug\Engine.lib
